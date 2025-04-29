@@ -45,7 +45,6 @@ Ensure the Exec= path in redshift-gui.desktop matches your script location.
 ## How It Works
 When the slider is released:
 
-    ```bash
     redshift -x          # Reset Redshift
     redshift -O <temp>   # Apply selected color temperature
 
